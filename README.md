@@ -1,2 +1,3 @@
 # precursoHenry
-Primer repositorio del Precurso Henry
+Descargue el repositorio y agregue con git clone https://....
+Se descargó en la carpeta localizada y ahora modifique el README.md
